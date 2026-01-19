@@ -1,0 +1,19 @@
+{
+  "name": "JaaBet",
+  "short_name": "JaaBet",
+  "theme_color": "",
+  "background_color": "#091930",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768804770-android-chrome-192x192.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
